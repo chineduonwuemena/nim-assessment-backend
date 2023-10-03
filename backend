@@ -1,0 +1,4 @@
+PORT=3001
+DEBUG=server:*,db:*
+MONGO_URI=mongodb://localhost:27017
+DB_NAME=<whatever you like (no spaces or special characters)>
